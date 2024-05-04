@@ -113,11 +113,14 @@ int main(int argc, char* argv[])
 
 ## OUTPUT
 $ ./sem.o 
+
 ![image](https://github.com/RoopakCS/Linux-IPC-Semaphores/assets/139228922/e9b93396-fbb5-425d-bf48-671f4574aeb3)
 
 
 $ ipcs
-![image](https://github.com/RoopakCS/Linux-IPC-Semaphores/assets/139228922/ce02eb02-18d9-4992-b3ed-de96e6932220)
+
+![image](https://github.com/RoopakCS/Linux-IPC-Semaphores/assets/139228922/16ac4953-b494-4603-98a4-32487ded549d)
+
 
 
 
