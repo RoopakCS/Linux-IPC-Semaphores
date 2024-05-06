@@ -1,6 +1,9 @@
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 
+# Name: Roopak C S
+# Register Number: 212223220088
+
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
 
